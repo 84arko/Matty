@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 079bb0a3764873d4dac2ca14b29a734c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2194
+        width: 797
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ca8a4920c5fc3408914f73e1fc40a3
+      internalID: 1923894615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_1
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2334
+        width: 817
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7875f446a81c2fa4ab6bfa5054a4ae37
+      internalID: 629439422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_2
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 2469
+        width: 837
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91928ef0554f9d4cadaaeaaec52ca33
+      internalID: 87079277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_3
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 2469
+        width: 845
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9737c70acb4bbcb45bc8c6ba28e9da5e
+      internalID: 58161970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1375
+        width: 845
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103c65fcd70b6e24991c7fa71e64b28b
+      internalID: -1708848652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_5
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1375
+        width: 845
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7894aeed3cb78d248abd48d8aa9bd680
+      internalID: 749703802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_6
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 1375
+        width: 843
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60834c957433edf4c8e477fc9426b8ff
+      internalID: 1822655212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_7
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 1375
+        width: 843
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6036b60a20e744429918403543fafeb
+      internalID: -1089191399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 281
+        width: 835
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b2f838a4a692b4494c41a3db9e215f
+      internalID: 1844631363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_9
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 281
+        width: 825
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278d784c3418f4241a7c8cbaa0629f0f
+      internalID: 1675442382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_10
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 280
+        width: 815
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fac5cf266053142aa9193d53765d62
+      internalID: -1714987574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_11
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 146
+        width: 807
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954e3facf2a29dc4fb718c5a29c31cea
+      internalID: -1085210133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_2: 87079277
+      __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_6: 1822655212
+      __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_8: 1844631363
+      __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_9: 1675442382
+      __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_11: -1085210133
+      __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_1: 629439422
+      __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_7: -1089191399
+      __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_10: -1714987574
+      __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_3: 58161970
+      __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_0: 1923894615
+      __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_4: -1708848652
+      __pelican_pelican-fly-projectile-attack_1303px-by-1094px-per-frame-min_5: 749703802
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

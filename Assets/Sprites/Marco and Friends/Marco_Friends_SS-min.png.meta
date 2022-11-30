@@ -1,0 +1,745 @@
+fileFormatVersion: 2
+guid: 7fdf896a7e3237d469cd5b00b03c0a65
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1092
+        width: 432
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54042f3d41919604cbabfcc171160032
+      internalID: 2004546782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1085
+        width: 412
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5369419a1cc6ef647b71f8f7c9dd6a0e
+      internalID: 608534983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_2
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1084
+        width: 388
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37e0636391f78d4689ce602ca13712f
+      internalID: 1422564254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_3
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1076
+        width: 352
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedc3f4027eb98443b012db75385838b
+      internalID: -992053207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_8
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1088
+        width: 299
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2fc193ff52f3e44b659b72d67025d6
+      internalID: 432562994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 815
+        width: 389
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5b37ccdb418b24f8da9288d31e5f8b
+      internalID: 593379006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 835
+        width: 378
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aafd9bded2ac6488718ba2c016312e
+      internalID: -1527391506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_11
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 821
+        width: 339
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86f9d2081982974cbdf2fa0f78096e5
+      internalID: -892909673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_12
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1039
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af13ca99f7a79e41bf2a0662ff729d8
+      internalID: 1198546538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_13
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1039
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c89afd701bef04699a0cfb21a0b5cb
+      internalID: -1688453187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_14
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 825
+        width: 319
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ee4ab2913700a46b1284472db18fc2
+      internalID: 1034306758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_15
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 821
+        width: 339
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87504b9911f74fe41967c7836a77e112
+      internalID: -386821710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_16
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1038
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8505cbe36512524f9059679a233b8fc
+      internalID: -354868906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_17
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1038
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab38421f033ca34bbe759255338e393
+      internalID: -53245722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 526
+        width: 353
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43bdbc0963b72e4492ad33cda42617c
+      internalID: 951388575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_21
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 585
+        width: 377
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84faed41acbf2bb419b9e86990d7da98
+      internalID: -291500570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_22
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 581
+        width: 326
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4502f334f7e02241831b93ba744ef86
+      internalID: 1351599653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_23
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 584
+        width: 318
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad1a452fc87534448444cd172ac852d
+      internalID: -1051527239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_24
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 547
+        width: 299
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aeb54e91a3cd344b2a097071c4071b
+      internalID: -1956146167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 334
+        width: 320
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac9501a5d9fd345b8833f6c453dbae
+      internalID: -858411711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 275
+        width: 320
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ea461d2d036b146b06f1dc3ad67569
+      internalID: 2112938487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_33
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 328
+        width: 294
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6903e2708325c2042a64dc56a1a76f30
+      internalID: 836814662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_34
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 311
+        width: 299
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d4a50bfb9d96a45949e34840b3f92d
+      internalID: 650772223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 69
+        width: 293
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5267510d084284f9e7f214cfb07547
+      internalID: -829309297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_38
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 293
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7742804a14cf79458251e9fbfa8512f
+      internalID: 1191255659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Friends_SS-min_39
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 75
+        width: 293
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3469a863f9cdb3044b7068b0f16c1763
+      internalID: 174269603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Marco_Friends_SS-min_1: 608534983
+      Marco_Friends_SS-min_9: 593379006
+      Marco_Friends_SS-min_6: 308029927
+      Marco_Friends_SS-min_37: 1232938642
+      Marco_Friends_SS-min_20: -1110066067
+      Marco_Friends_SS-min_22: 1351599653
+      Marco_Friends_SS-min_5: -91777424
+      Marco_Friends_SS-min_31: -2103836869
+      Marco_Friends_SS-min_36: 471679169
+      Marco_Friends_SS-min_3: -992053207
+      Marco_Friends_SS-min_4: 39179897
+      Marco_Friends_SS-min_0: 2004546782
+      Marco_Friends_SS-min_7: 581984269
+      Marco_Friends_SS-min_8: 432562994
+      Marco_Friends_SS-min_17: -53245722
+      Marco_Friends_SS-min_34: 650772223
+      Marco_Friends_SS-min_28: -474762130
+      Marco_Friends_SS-min_32: 2112938487
+      Marco_Friends_SS-min_18: 951388575
+      Marco_Friends_SS-min_21: -291500570
+      Marco_Friends_SS-min_29: 2139013201
+      Marco_Friends_SS-min_16: -354868906
+      Marco_Friends_SS-min_35: -829309297
+      Marco_Friends_SS-min_2: 1422564254
+      Marco_Friends_SS-min_11: -892909673
+      Marco_Friends_SS-min_14: 1034306758
+      Marco_Friends_SS-min_10: -1527391506
+      Marco_Friends_SS-min_27: -858411711
+      Marco_Friends_SS-min_26: -1971192889
+      Marco_Friends_SS-min_30: -70477086
+      Marco_Friends_SS-min_15: -386821710
+      Marco_Friends_SS-min_23: -1051527239
+      Marco_Friends_SS-min_13: -1688453187
+      Marco_Friends_SS-min_38: 1191255659
+      Marco_Friends_SS-min_12: 1198546538
+      Marco_Friends_SS-min_19: -1550456369
+      Marco_Friends_SS-min_24: -1956146167
+      Marco_Friends_SS-min_33: 836814662
+      Marco_Friends_SS-min_25: -1206948553
+      Marco_Friends_SS-min_39: 174269603
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
